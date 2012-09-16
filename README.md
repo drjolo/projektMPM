@@ -1,7 +1,7 @@
 projektMPM
 ==========
 
-harmonogramowanie projektów metodą MPM (tzw. metoda francuzka)
+harmonogramowanie projektów metodą MPM (tzw. metoda francuska)
 
 *OPIS PLIKÓW*
 
